@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RaspTest</string>
+
+    <string name="ip">The IP</string>
+    <string name="ON">ON/OFF</string>
+    <string name="message">Your message</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
