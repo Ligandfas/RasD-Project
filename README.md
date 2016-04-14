@@ -5,7 +5,7 @@ Control a Led wired to a Raspberry Pi with an Android app
 
 The server application is written in java with the Pi4j library 
 
-Note that you need java and the Pi4j library(http://pi4j.com/) correctly installed on you Raspberry Pi 
+Note that you need Java and the Pi4j library(http://pi4j.com/) correctly installed on you Raspberry Pi 
 
 Here is the wiring diagram. It is like the one used in the Pi4j project GPIO example(http://pi4j.com/example/control.html)
 
@@ -17,8 +17,10 @@ To execute the java application(RasdServer.jar) on your Raspberry Pi, simply get
 
 Here how the application should look like on a Tablet
 
-You enter the raspberry pi IP and a message. The message shoud be "on" (feel free to hack the code to change it or delete it :p) or the led won't turn on.
+Enter the raspberry pi IP and a message. The message should be "on" (feel free to hack the code to change it or delete it :p) or the led won't turn on.
 
-Every push on the on/off button toggles the Led.
+Every push on the "on/off" button toggles the Led state.
 
 ![alt tag](https://cloud.githubusercontent.com/assets/18163788/14545133/08dd99d0-029d-11e6-8f0e-287487c05b15.JPG)
+
+Enjoy! :D
