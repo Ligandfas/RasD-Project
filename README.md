@@ -4,6 +4,7 @@ Control a Led wired to a Raspberry Pi with an Android app
 *************************Raspberry Pi-Side*************************
 
 The server application is written in java with the Pi4j library 
+
 Note that you need java and the Pi4j library(http://pi4j.com/) correctly installed on you Raspberry Pi 
 
 Here is the wiring diagram. It is like the one used in the Pi4j project GPIO example(http://pi4j.com/example/control.html)
