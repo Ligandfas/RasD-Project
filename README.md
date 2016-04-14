@@ -11,11 +11,11 @@ Here is the wiring diagram. It is like the one used in the Pi4j project GPIO exa
 
 ![alt tag](https://cloud.githubusercontent.com/assets/18163788/14544288/91381332-0298-11e6-8611-05ed6270ff41.JPG "wiring diagram")
 
-To execute the java application(RasdServer.jar) on your Raspberry Pi, simply get to the directory where you put it and excute the following command "sudo java -jar RasdServer.jar"
+To execute the java application(RasdServer.jar) on your Raspberry Pi, simply get to the directory where you put it and execute the following command "sudo java -jar RasdServer.jar"
 
 *************************Android-Sid*************************
 
-Here how the application should look like on a Tablet
+Here is how the application should look like on a Tablet
 
 Enter the raspberry pi IP and a message. The message should be "on" (feel free to hack the code to change it or delete it :p) or the led won't turn on.
 
