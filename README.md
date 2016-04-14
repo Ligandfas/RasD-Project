@@ -13,7 +13,7 @@ Here is the wiring diagram. It is like the one used in the Pi4j project GPIO exa
 
 To execute the java application(RasdServer.jar) on your Raspberry Pi, simply get to the directory where you put it and execute the following command "sudo java -jar RasdServer.jar"
 
-*************************Android-Sid*************************
+*************************Android-Side*************************
 
 Here is how the application should look like on a Tablet
 
